@@ -1,0 +1,15 @@
+C:\Users\rachittandon\Desktop\CAJobs\bin\Debug\net6.0\CAJOBS.exe
+C:\Users\rachittandon\Desktop\CAJobs\bin\Debug\net6.0\CAJOBS.deps.json
+C:\Users\rachittandon\Desktop\CAJobs\bin\Debug\net6.0\CAJOBS.runtimeconfig.json
+C:\Users\rachittandon\Desktop\CAJobs\bin\Debug\net6.0\CAJOBS.dll
+C:\Users\rachittandon\Desktop\CAJobs\bin\Debug\net6.0\CAJOBS.pdb
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.csproj.AssemblyReference.cache
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.AssemblyInfoInputs.cache
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.AssemblyInfo.cs
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.csproj.CoreCompileInputs.cache
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.dll
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\refint\CAJOBS.dll
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.pdb
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\CAJOBS.genruntimeconfig.cache
+C:\Users\rachittandon\Desktop\CAJobs\obj\Debug\net6.0\ref\CAJOBS.dll
